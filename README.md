@@ -16,7 +16,8 @@ Node v20.11.0
 ```
 para verificar sua verão do node, digite "node -v" no seu terminal. se estiver com uma versão muito atrás, vc pode usar o NVM para instalar outra versão do node. https://github.com/nvm-sh/nvm#installation-and-update
 
-
+### print da tela
+<img src="./src/assets/img/print.png" width="700" />
 
 ## Executar localmente
 ```
