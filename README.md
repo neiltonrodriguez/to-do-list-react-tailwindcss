@@ -1,8 +1,27 @@
-# React + Vite
+# TO-DO-LIST
+### Projeto de estudo em react e tailwindCSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Descrição
+esse app foi criado a fins de estudo do react, trata-se de uma lista de tarefas básica, com persitências dos dados no localStorage, podem excluir a tarefa e marcar como concluída.
 
-Currently, two official plugins are available:
+### Contexto de negócio
+```
+React
+TailwindCSS
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Executar localmente
+```
+# git clone
+# npm install
+# npm run dev
+```
+
+
+#### endereços para acesso:
+```
+Endereço do app: http://localhost:3000
+```
+
+Developed by Neilton Rodrigues
